@@ -1,2 +1,2 @@
 # LMSCdata
-Meu portfólio  de projetos de data Science
+## Dados … Suor e métricas.
